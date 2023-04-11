@@ -1,9 +1,9 @@
 <h1>Header / Başlık-Üst Taraf<h1>
-<h3>Website Header / Site Üst Taraf Başlığı<h3>
+<p>Website Header / Site Üst Taraf Başlığı<p>
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler<h2>
-<h3>HTML, CSS <h3>
+<p>HTML, CSS <p>
 
 
 <h2>Screenshot / Ekran Görüntüsü<h2>
